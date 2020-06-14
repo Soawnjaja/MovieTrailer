@@ -180,7 +180,7 @@ body {
     width: 35px;
     height: 35px;
     border: none;
-    background: transparent url("/img/arrow1.svg") no-repeat center;
+    background: transparent url("img/arrow1.svg") no-repeat center;
     margin-right: 15px;
     cursor: pointer;
 }
@@ -189,7 +189,7 @@ body {
     width: 35px;
     height: 35px;
     border: none;
-    background: transparent url("/img/arrow2.svg") no-repeat center;
+    background: transparent url("img/arrow2.svg") no-repeat center;
     cursor: pointer;
 }
 
