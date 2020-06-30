@@ -12,10 +12,10 @@
 }
 
 body {
-    background: #000000 url("../img/main-bg.jpg") top left 160% no-repeat;
+    background: #000000 url("../img/main-bg.jpg") top left 140% no-repeat;
     background-size: contain;
     background-attachment: fixed;
-    color: #000;
+    color: #f9f9f9;
     font-family: 'Roboto', sans-serif;
 }
 
